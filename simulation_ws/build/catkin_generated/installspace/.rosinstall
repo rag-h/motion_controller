@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/raghav/motion_controller/simulation_ws/install/setup.sh

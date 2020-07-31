@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/raghav/motion_controller/catkin_ws/devel/setup.sh
