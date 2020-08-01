@@ -131,6 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/raghav/motion_controller/simulation_ws/build/gtest/cmake_install.cmake")
+  include("/home/raghav/motion_controller/simulation_ws/build/teleop_twist_keyboard/cmake_install.cmake")
   include("/home/raghav/motion_controller/simulation_ws/build/m2wr_description/cmake_install.cmake")
   include("/home/raghav/motion_controller/simulation_ws/build/robot_description_pkg/cmake_install.cmake")
 

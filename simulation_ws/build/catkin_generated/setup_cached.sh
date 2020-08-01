@@ -7,4 +7,9 @@
 # new environment variables
 
 # modified environment variables
+export CMAKE_PREFIX_PATH="/home/raghav/motion_controller/simulation_ws/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/raghav/motion_controller/simulation_ws/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/raghav/motion_controller/simulation_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/raghav/motion_controller/simulation_ws/build"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/raghav/motion_controller/simulation_ws/devel/share/common-lisp"
+export ROS_PACKAGE_PATH="/home/raghav/motion_controller/simulation_ws/src:$ROS_PACKAGE_PATH"
