@@ -1,2 +1,2 @@
-###Universal Robot Description Format (URDF)
+### Universal Robot Description Format (URDF)
 The URDF is an XML format which essentially describes what a robot looks like in ROS. This format is used to specify the sizes and positions of parts of the robot in relation to one another. For example the dimensions of the chassis, where the wheels are placed on the chassis, where sensors are placed on the chassis, collision information and others. The URDF file is used to model your robot on physics simulation software such as Gazebo or visualisation tools such as RVIZ.
