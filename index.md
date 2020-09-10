@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Raghav's motion_controller Github!
+The aim of this github project website is to help people understand the theory behind the ros navigation stack as well well as to help them build an autonomous skid_steer robot from scratch as well! I hope everyone finds this useful to them! 
 
-You can use the [editor on GitHub](https://github.com/rag-h/motion_controller/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Before we start, I highly encourage everyone to have a look at the following Youtube tutorials by the [The Construct](https://www.youtube.com/channel/UCt6Lag-vv25fTX3e11mVY1Q), as those were the videos I initially watched to gain an understanding of most of my understanding about the ros packages and how to use them!
+1. [Exploring ROS using a 2 wheeled Robot](https://www.youtube.com/playlist?list=PLK0b4e05LnzY2I4sXWTOA4_82cMh6tL-5)
+2. [ROS Navigation in 5 days](https://www.youtube.com/playlist?list=PLiiw0aSVHcAkF26qR6Q7x6RlLAL6-vuF3) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rag-h/motion_controller/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My tutorials will try to go through the following:
+1. Spawning a robot in Gazebo and moving it around with a keyboard
+2. Loading in a world and mapping it using the gmapping package
+3. Setting up the Navigation stack and move_base
