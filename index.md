@@ -9,3 +9,5 @@ My tutorials will try to go through the following:
 1. Spawning a robot in Gazebo and moving it around with a keyboard
 2. Loading in a world and mapping it using the gmapping package
 3. Setting up the Navigation stack and move_base
+
+<a href="https://rag-h.github.io/motion_controller/your-first-robot/urdf.md" title="Universal Robot Description Format">URDF</a>
